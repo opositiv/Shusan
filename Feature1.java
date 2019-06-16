@@ -9,7 +9,7 @@ public class Feature1 {
 	}
 		public static void main(String[] args) 
 		{
-			
+			//bug fix done here
 			Feature1 obj=new Feature1();
 			int addition=obj.add(10,20);
 
