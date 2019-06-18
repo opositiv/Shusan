@@ -12,7 +12,7 @@ public class Feature1 {
 			//bug fix done here
 			//production bug fixed (hotfix)
 			Feature1 obj=new Feature1();
-			int addition=obj.add(10,20)
+			int addition=obj.add(10,20);
 
 			System.out.println(addition);
 		}
